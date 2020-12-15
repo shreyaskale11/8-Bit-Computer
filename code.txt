@@ -1,0 +1,16 @@
+//8-Bit Computer
+//execute this code automatically
+
+//Code
+
+load a;          //store value in A register
+load b;          //store value in B register
+add (a,b);       //addition of value in A&B register
+substract (a,b); //substraction of value in A&B register
+AND (a,b);       //logical AND of value in A&B register
+OR (a,b);        //logical OR of value in A&B register
+XOR (a,b);       //logical XOR of value in A&B register
+NOR (a,b);       //logical NOR of value in A&B register
+compare (a,b);   //compare value in A&B register 
+clear();         //clear A,B,output and display register 
+stop();          //stop control unit  

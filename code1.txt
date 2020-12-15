@@ -1,0 +1,10 @@
+                Hexadecimal Decimal Binary 
+a                 40           64   0100 0000
+b                 70          112   0111 0000
+a+b               b0          176   1011 0000
+a-b               30          -48   0011 0000
+a AND b           40           64   0100 0000
+a OR b            70          112   0111 0000
+a XOR b           30           48   0011 0000
+a NOR b           8f          143   1000 1111
+a compare b       70          112   0111 0000
